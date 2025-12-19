@@ -1,4 +1,4 @@
-*.iml
+
 .gradle
 /local.properties
 /.idea/caches
@@ -12,4 +12,23 @@
 /captures
 .externalNativeBuild
 .cxx
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Android Studio
+*.apk
+*.ap_
+*.dex
+
+# Gradle
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
 local.properties
+
+# Log Files
+*.log
